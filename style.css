@@ -3,6 +3,12 @@
   padding: 0;
   transition: 0.1s; }
 
+body {
+  font-family: 'Roboto Condensed', Helvetica, sans-serif;
+  text-align: left;
+  font-size: 18px;
+  color: #303030; }
+
 #wrapper {
   margin: 0 auto;
   text-align: center;
