@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  transition: 0.1s; }
+
+#wrapper {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.box {
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid #e3e3e3;
+    background: #fff;
+    width: 70px;
+    height: 70px;
+    margin: 2px;
+    float: left;
+    color: #D80000;
+    -webkit-border-radius: .3em;
+    -moz-border-radius: .3em;
+    border-radius: .3em;
+}
+.box:hover {
+    background: #e3e3e3;
+}
+.box p {
+    margin-top: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    text-shadow: -1px 1px 1px #fff;
+}
